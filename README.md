@@ -41,7 +41,10 @@ The following KPIs are used to measure business performance:
 
 ## Dashboard
 
+- Home Page
 <img width="1351" height="742" alt="DashboardImage_1" src="https://github.com/user-attachments/assets/7b271c8b-a2f5-4b08-a278-570a0ed04fdf" />
+
+- Best/Worst Sellers
 <img width="1356" height="747" alt="DashboardImage_2" src="https://github.com/user-attachments/assets/d173f031-b4af-45ba-a3f7-d730775fd232" />
 
 
