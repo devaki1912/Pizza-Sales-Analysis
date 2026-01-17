@@ -36,7 +36,8 @@ The following KPIs are used to measure business performance:
 - Average Pizzas per Order – Average number of pizzas per order
   
 -  Dashboard Interaction <a href="https://github.com/devaki1912/Pizza-Sales-Analysis/blob/main/DashboardImage_1.png">View Dashboard-Home Page</a>
-<a href="https://github.com/devaki1912/Pizza-Sales-Analysis/blob/main/DashboardImage_2.png">View Dashboard-Best/Wprst Sellers</a>
+
+<a href="https://github.com/devaki1912/Pizza-Sales-Analysis/blob/main/DashboardImage_2.png">View Dashboard-Best/Worst Sellers</a>
 
 ## Dashboard
 
