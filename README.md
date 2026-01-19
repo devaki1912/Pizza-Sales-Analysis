@@ -92,8 +92,6 @@ The analysis focuses on:
 
 - DAX
 
-- Data Modeling
-
 - Sales Analytics
 
 - Business Intelligence
