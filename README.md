@@ -39,7 +39,7 @@ The following KPIs are used to measure business performance:
 
 - <a href="https://github.com/devaki1912/Pizza-Sales-Analysis/blob/main/DashboardImage_2.png">View Dashboard-Best/Worst Sellers</a>
 
-# Dashboard
+## Dashboard
 
 ## Home Page
 <img width="1351" height="742" alt="DashboardImage_1" src="https://github.com/user-attachments/assets/7b271c8b-a2f5-4b08-a278-570a0ed04fdf" />
